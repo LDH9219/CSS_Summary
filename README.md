@@ -12,3 +12,8 @@
 4. CSS_Lists, background
 5. CSS_Floating, Positioning
 6. CSS_Flexbox
+7. CSS_2D Transforms
+8. CSS_Transition
+9. CSS_Animation, keyframes
+10. CSS_3D Transforms
+11. CSS_Gradients, box-shadow
